@@ -1,0 +1,2 @@
+Hello from a direct peer-to-peer transfer!
+This file travels over TCP and is checked with SHA-256.

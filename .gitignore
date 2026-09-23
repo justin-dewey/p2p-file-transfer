@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+received/
+received-*/
+*.part
+*.egg-info/
+build/
+dist/
